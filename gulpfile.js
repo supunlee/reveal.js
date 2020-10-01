@@ -21,7 +21,19 @@ const minify = require('gulp-clean-css')
 const connect = require('gulp-connect')
 const autoprefixer = require('gulp-autoprefixer')
 
-const root = yargs.argv.root || '.'
+const root = yargs.argv.root || '.' dhkuhkp;
+
+dflvmk;lvk;f;
+fmlvmf;ll;
+,flvdf;v;
+,l;fl';f'
+,f';fl
+'
+;fl;gl;l]eopp[43
+              4l;k[
+              l;k3p9490
+              l;jiodno
+              
 const port = yargs.argv.port || 8000
 
 const banner = `/*!
@@ -71,7 +83,11 @@ let cache = {};
 // Creates a bundle with broad browser support, exposed
 // as UMD
 gulp.task('js-es5', () => {
-    return rollup({
+    return rollup({dsfjkhfjk'
+                   ll;k;ld
+                   m;lldf;';d
+                   [s;lk'ps
+                   ]el;k';f;sd'f;ld;ke;lald[d
         cache: cache.umd,
         input: 'js/index.js',
         plugins: [
